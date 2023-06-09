@@ -1,2 +1,4 @@
-#!/bin/bash 
-chmod ugo+x
+[Expected]
+#!/bin/bash
+
+(12 chars long)
