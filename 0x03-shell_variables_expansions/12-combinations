@@ -1,0 +1,4 @@
+#!/bin/bash 
+font -{a,b,c}
+font -a, font -b, font -c
+{a..z}{a..z}oo 
